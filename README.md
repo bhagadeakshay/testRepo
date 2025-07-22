@@ -1,4 +1,5 @@
 # testRepo
-this is our demo about git 
+
+this is our demo about git
 <br>
-Author: Akshay
+Author: Akshay Bhagade
